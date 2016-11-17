@@ -1,0 +1,52 @@
+.header{
+background-repeat: no-repeat;		background-image:url(https://zaidynes.files.wordpress.com/2016/09/league-of-legends-art14.jpg?w=1200);
+	height:900px;
+	background-position: center center;
+}
+.lefttext{
+	
+}
+.righttext{
+	background-position: center-right;
+}
+.center{
+	background-position:center;
+	margin: 50px;
+	height: ;
+	}
+.lanemap{
+	background-image: url(https://4.bp.blogspot.com/-B9e0D2qUeG8/UK0SWAEMtDI/AAAAAAAAAGA/_V2cRGVVXYY/s426/196051_3149719432962_66192221_n.jpg);
+	height:426px;
+	width:426px;
+	background-position:center-left;
+}
+body {
+		padding: 0;
+		margin: 30;
+		background: linear-gradient(180deg, #7CCCA3 0%, #B7F2C3 75%);
+}
+h1 {
+	color: #F2E4B7;
+	font-family:'Adobe Mind Std L', 'Adobe Devnagari', 'Minion Pro Med', 'Times New Roman', serif;
+	position: relative;
+	text-align: center;
+	font-size: 100px;
+	line-height:100px;
+	top:50%;
+}
+h2 {
+	
+}
+p {
+	color: rgba(89,67,41,1);
+	font-family:'Trebuchet Ms','Microsoft Sans Serif', 'Yu Gothic Medium', 'Arial', sans-serif;
+}
+a {
+	color: rgba(89,90,41,1);
+}
+.spacer{
+	padding-top: 150px;
+	padding-bottom: 150px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
